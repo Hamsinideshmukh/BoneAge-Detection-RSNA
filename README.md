@@ -1,4 +1,4 @@
-This is the project developed for Bone Age detection of RSNA dataset ( status: submitted at a conf.)
+This is the project developed for Bone Age detection of RSNA dataset ( status: submitted at a conference)
 # Dual-Region Attention Fusion for Bone Age Estimation
 
 Bone age estimation from hand radiographs using a shared-weight two-stream EfficientNetV2-S encoder, a learned region-attention fusion module, and a CORAL ordinal regression head. Submitted to INDICON 2026.
