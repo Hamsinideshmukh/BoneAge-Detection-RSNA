@@ -7,7 +7,7 @@ Bone age estimation from hand radiographs using a shared-weight two-stream Effic
 
 ## Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture](misc/arch_diagram.jpeg)
 
 Two regions per radiograph — the full hand and a finger-joint crop — are encoded by a shared backbone, fused via a learned attention weighting, conditioned on gender, and passed through a 227-threshold CORAL head.
 
