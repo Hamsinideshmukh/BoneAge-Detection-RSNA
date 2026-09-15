@@ -33,4 +33,5 @@ samples/        example radiographs (RSNA, DHA)
 
 ## Citation
 
-See link for the full manuscript. Citation details to be added upon publication.
+Citation details added inside the publication.
+##### Refer this link for the full paper.
