@@ -14,7 +14,7 @@ Two regions per radiograph — the full hand and a finger-joint crop — are enc
 ## Repo layout
 
 ```
-architecture/   diagram source (.drawio) + exported image
+misc/   miscellaneous artifacts like diagram source (.drawio),png etc
 src/            training scripts including ablations
   train.py            
   train_coral.py      
